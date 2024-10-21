@@ -15,7 +15,7 @@
                 int myDiceTotal = diceRoll();
                 Console.WriteLine($"Your total is {myDiceTotal}");
 
-                Console.WriteLine("Click a key to see the computer's roll");
+                Console.WriteLine("\nClick a key to see the computer's roll");
                 Console.ReadLine();
 
                 int computerDiceTotal = diceRoll();
@@ -24,18 +24,18 @@
 
                 if (myDiceTotal > computerDiceTotal)
                 {
-                    Console.WriteLine("You have won!");
+                    Console.WriteLine("\nYou have won!");
                 }
                 else if (computerDiceTotal > myDiceTotal)
                 {
-                    Console.WriteLine("You have lost!");
+                    Console.WriteLine("\nYou have lost!");
                 }
                 else
                 {
-                    Console.WriteLine("It is a draw!");
+                    Console.WriteLine("\nIt is a draw!");
                 }
 
-                Console.WriteLine("To play again press any key, or to stop playing press n: ");
+                Console.WriteLine("\nTo play again press any key, or to stop playing press n: ");
                 playAgain = Console.ReadLine().ToLower();
             }
 
