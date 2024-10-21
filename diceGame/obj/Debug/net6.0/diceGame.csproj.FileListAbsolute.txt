@@ -1,0 +1,14 @@
+C:\Users\TahhaButt\source\repos\diceGame\diceGame\bin\Debug\net6.0\diceGame.exe
+C:\Users\TahhaButt\source\repos\diceGame\diceGame\bin\Debug\net6.0\diceGame.deps.json
+C:\Users\TahhaButt\source\repos\diceGame\diceGame\bin\Debug\net6.0\diceGame.runtimeconfig.json
+C:\Users\TahhaButt\source\repos\diceGame\diceGame\bin\Debug\net6.0\diceGame.dll
+C:\Users\TahhaButt\source\repos\diceGame\diceGame\bin\Debug\net6.0\diceGame.pdb
+C:\Users\TahhaButt\source\repos\diceGame\diceGame\obj\Debug\net6.0\diceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TahhaButt\source\repos\diceGame\diceGame\obj\Debug\net6.0\diceGame.AssemblyInfoInputs.cache
+C:\Users\TahhaButt\source\repos\diceGame\diceGame\obj\Debug\net6.0\diceGame.AssemblyInfo.cs
+C:\Users\TahhaButt\source\repos\diceGame\diceGame\obj\Debug\net6.0\diceGame.csproj.CoreCompileInputs.cache
+C:\Users\TahhaButt\source\repos\diceGame\diceGame\obj\Debug\net6.0\diceGame.dll
+C:\Users\TahhaButt\source\repos\diceGame\diceGame\obj\Debug\net6.0\refint\diceGame.dll
+C:\Users\TahhaButt\source\repos\diceGame\diceGame\obj\Debug\net6.0\diceGame.pdb
+C:\Users\TahhaButt\source\repos\diceGame\diceGame\obj\Debug\net6.0\diceGame.genruntimeconfig.cache
+C:\Users\TahhaButt\source\repos\diceGame\diceGame\obj\Debug\net6.0\ref\diceGame.dll
