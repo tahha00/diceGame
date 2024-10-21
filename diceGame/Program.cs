@@ -12,21 +12,21 @@
                 Console.WriteLine("Click a key to roll your dice!");
                 Console.ReadLine();
 
-                int myDiceTotal = diceRoll();
-                Console.WriteLine($"Your total is {myDiceTotal}");
+                int myDice = diceRoll();
+                Console.WriteLine($"Your total is {myDice}");
 
                 Console.WriteLine("\nClick a key to see the computer's roll");
                 Console.ReadLine();
 
-                int computerDiceTotal = diceRoll();
-                Console.WriteLine($"Computer's total roll is {computerDiceTotal}");
+                int computerDice = diceRoll();
+                Console.WriteLine($"Computer's total roll is {computerDice}");
 
 
-                if (myDiceTotal > computerDiceTotal)
+                if (myDice > computerDice)
                 {
                     Console.WriteLine("\nYou have won!");
                 }
-                else if (computerDiceTotal > myDiceTotal)
+                else if (computerDice > myDice)
                 {
                     Console.WriteLine("\nYou have lost!");
                 }
