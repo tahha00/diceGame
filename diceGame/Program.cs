@@ -39,8 +39,6 @@
                 playAgain = Console.ReadLine().ToLower();
             }
 
-
-
         }
         static int diceRoll()
         {
