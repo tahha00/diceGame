@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TahhaButt\\source\\repos\\diceGame\\diceGame\\diceGame.csproj": {}
+    "C:\\Users\\TahhaButt\\source\\repos\\Day 1\\diceGame\\diceGame\\diceGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TahhaButt\\source\\repos\\diceGame\\diceGame\\diceGame.csproj": {
+    "C:\\Users\\TahhaButt\\source\\repos\\Day 1\\diceGame\\diceGame\\diceGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TahhaButt\\source\\repos\\diceGame\\diceGame\\diceGame.csproj",
+        "projectUniqueName": "C:\\Users\\TahhaButt\\source\\repos\\Day 1\\diceGame\\diceGame\\diceGame.csproj",
         "projectName": "diceGame",
-        "projectPath": "C:\\Users\\TahhaButt\\source\\repos\\diceGame\\diceGame\\diceGame.csproj",
+        "projectPath": "C:\\Users\\TahhaButt\\source\\repos\\Day 1\\diceGame\\diceGame\\diceGame.csproj",
         "packagesPath": "C:\\Users\\TahhaButt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TahhaButt\\source\\repos\\diceGame\\diceGame\\obj\\",
+        "outputPath": "C:\\Users\\TahhaButt\\source\\repos\\Day 1\\diceGame\\diceGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
